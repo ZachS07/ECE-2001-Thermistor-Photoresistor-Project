@@ -16,7 +16,7 @@ The light sensor uses photoresistors to detect the position of a phone flashligh
 
 ## Demo
 
-[Watch the circuit demo](ECE2001.mov)
+[Watch the circuit demo](ECE2001.mp4)
 
 ## Components & Tools
 
