@@ -7,6 +7,7 @@ This project uses thermistors, photoresistors, comparators, and LEDs to detect c
 The temperature sensor uses a thermistor and 8 comparators with different voltage thresholds. As the thermistor warms up, more LEDs turn on to indicate the temperature level.
 
 I designed and simulated the circuit in LTspice before building and testing it on a breadboard.
+(Although the image below is for the photoresistor, the thermistor one is essentially the exact same)
 
 ![LTspice Circuit](ECE2001LTspice.jpeg)
 
